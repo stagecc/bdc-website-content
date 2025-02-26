@@ -1,0 +1,16 @@
+title: Analyze Data
+menu:
+  - heading: About Analyzing Data in BDC
+    href: about-analyzing-data-in-bdc
+  - heading: Prepare to Analyze Data
+    href: prepare-to-analyze-data
+  - heading: Build a Cohort for Analysis (Optional)
+    href: build-a-cohort-for-analysis-optional
+  - heading: Import Data to a BDC Workspace
+    href: import-data-to-a-bdc-workspace
+  - heading: Utilize Analysis Tools
+    href: utilize-analysis-tools
+  - heading: Bring Your Own Data (BYOD)
+    href: bring-your-own-data-byod
+  - heading: Terra Users
+    href: terra-users
